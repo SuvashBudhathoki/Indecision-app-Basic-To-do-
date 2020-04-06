@@ -1,8 +1,4 @@
-# Indecision-app-Basic-To-Do-
-
-## Demo
-
-Here is a working live
+# Indecision-app-Basic-To-Do
 
 # Installing
 
