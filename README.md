@@ -2,7 +2,7 @@
 
 ## Demo
 
-Here is a working live Cryptocurrency-Portfolio
+Here is a working live
 
 # Installing
 
